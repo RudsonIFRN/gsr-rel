@@ -1,0 +1,9 @@
+site_name: Relatório de Gerenciamento e Segurança de Redes
+# site_dir: /var/www/[...]
+theme:
+     name: material
+     language: pt
+
+plugins:
+    - search
+    - mermaid2
